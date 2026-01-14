@@ -34,11 +34,5 @@ A Python-based AI Voice Assistant that performs voice-controlled system and web 
 5. Responds back using text-to-speech  
 
 
-▶️ How to Run Locally:
-git clone https://github.com/your-username/ai-voice-assistant.git
-cd ai-voice-assistant
-pip install -r requirements.txt
-python voice.py
-
 🎯 Use Case
 This project demonstrates hands-free task automation, voice-based user interaction, and basic natural language command processing using Python.
